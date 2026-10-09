@@ -1,0 +1,15 @@
+C:\Users\ssalem\eraaSoft538\Session02_task\bin\Debug\net10.0\Session02_task.exe
+C:\Users\ssalem\eraaSoft538\Session02_task\bin\Debug\net10.0\Session02_task.deps.json
+C:\Users\ssalem\eraaSoft538\Session02_task\bin\Debug\net10.0\Session02_task.runtimeconfig.json
+C:\Users\ssalem\eraaSoft538\Session02_task\bin\Debug\net10.0\Session02_task.dll
+C:\Users\ssalem\eraaSoft538\Session02_task\bin\Debug\net10.0\Session02_task.pdb
+C:\Users\ssalem\eraaSoft538\Session02_task\obj\Debug\net10.0\Session02_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssalem\eraaSoft538\Session02_task\obj\Debug\net10.0\Session02_task.AssemblyInfoInputs.cache
+C:\Users\ssalem\eraaSoft538\Session02_task\obj\Debug\net10.0\Session02_task.AssemblyInfo.cs
+C:\Users\ssalem\eraaSoft538\Session02_task\obj\Debug\net10.0\Session02_task.csproj.CoreCompileInputs.cache
+C:\Users\ssalem\eraaSoft538\Session02_task\obj\Debug\net10.0\Session02_task.dll
+C:\Users\ssalem\eraaSoft538\Session02_task\obj\Debug\net10.0\refint\Session02_task.dll
+C:\Users\ssalem\eraaSoft538\Session02_task\obj\Debug\net10.0\Session02_task.pdb
+C:\Users\ssalem\eraaSoft538\Session02_task\obj\Debug\net10.0\Session02_task.genruntimeconfig.cache
+C:\Users\ssalem\eraaSoft538\Session02_task\obj\Debug\net10.0\ref\Session02_task.dll
+C:\Users\ssalem\eraaSoft538\Session02_task\obj\Debug\net10.0\Session0.FC9DA0C5.Up2Date
